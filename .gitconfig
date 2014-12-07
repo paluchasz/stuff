@@ -1,0 +1,26 @@
+[user]
+        name = Szymon Pałucha
+        email = paluchasz@googlemail.com
+[core]
+        editor = vim
+[http]
+        proxy = http://wwwcache.dur.ac.uk:8080
+[push]
+        default = current
+[color]
+        branch = auto
+        status = auto
+        diff = auto
+        interactive = auto
+        ui = true
+        pager = true
+[color "status"]
+        added = green
+        changed = red bold
+        untracked = magenta bold
+[color "branch"]
+        remote = yellow
+
+[credential]
+        helper = cache --timeout=3600
+
