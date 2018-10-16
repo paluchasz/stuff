@@ -1,7 +1,4 @@
-My stuff
-========
-
-My random tips how to use my computer.
+Notes
 
 Ubuntu
 ======
